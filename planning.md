@@ -142,11 +142,6 @@ JSON Response → confirmation message
 
 ## AI Tool Plan
 
-### Milestone 3 (Submission Endpoint + Signal 1)
-- **Spec sections to provide:** Detection Signals + Architecture diagram
-- **What to ask AI:** Generate Flask app skeleton with POST /submit route and the Groq LLM signal function
-- **How to verify:** Test the function directly with 3 sample texts before wiring into the endpoint
-
 ### Milestone 4 (Signal 2 + Confidence Scoring)
 - **Spec sections to provide:** Detection Signals + Uncertainty Representation + Architecture diagram
 - **What to ask AI:** Generate stylometric heuristics function and confidence scoring logic
